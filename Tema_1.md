@@ -1,4 +1,4 @@
-# Тема 2. Базовые операции языка Python
+# Тема 1. Работа с репозиториями
 Отчет по Теме #2 выполнил(а):
 - Мамедов Роял Мубаризович
 - ПИЭ-22-1
@@ -22,51 +22,54 @@
 - к.э.н., доцент Панов М.А.
 
 1. Установка
-![Меню]()
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/1.png)
 
 2. Настройка
-![Меню]()
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/2.png)
 
 3. Создание нового репозитория
-![Меню]()
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/3.png)
 
 4. Подготовка файлов
-![Меню]()
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/4.png)
 
 5. Фиксация изменений
-![Меню]()
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/5.png)
 
 6. Подключение к удаленному репозиторию
-![Меню](
-)
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/6.1.png)
+
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/6.2.png)
+
 
 7. Ветвление
-![Меню]()
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/7.png)
 
 8. Особенности применения «Фетч»
-![Меню]()
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/8.png)
 
 9. Удаление файлов, веток, локальных и удалённых репозиториев
-![Меню](
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/9.png
 )
 
 10. Отслеживание изменений в коммитах
-![Меню]()
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/10.png)
 
 11. Возвращение файла к предыдущему (определенному) состоянию
-![Меню]()
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/11.png)
 
 12. Возвращение к предыдущему коммиту
-![Меню]()
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/12.png)
 
 13. Исправление коммита
-![Меню]()
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/13.png)
 
 14. Разрешение конфликтов при слиянии
-![Меню]()
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/14.png)
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/14.2.png)
 
 15. Настройка .gitignore
-![Меню]()
+![Меню](https://github.com/r1ngoch1/SoftwareEngineering/blob/Тема_1/скрины/15.png)
 
 ## Лабораторная работа №2
 - Текст задания
